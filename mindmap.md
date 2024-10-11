@@ -1,3 +1,4 @@
+```mermaid
 mindmap
   root((Pwntilldawn FULL))
     Stegano
@@ -106,3 +107,4 @@ mindmap
               "Ne pas oublier d'adapter le port 8080 selon les situations"
           "Sur l'host"
             "chisel server -port 7777 --reverse"
+```
