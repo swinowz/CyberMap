@@ -1,4 +1,5 @@
-Most of the commands I used while doing some PwnTillDawn machines !
-Open CyberMap.md for the text version
+Most of the commands I used while doing some PwnTillDawn machines !\
+[Text version](CyberMap.md)
+
 ![alt text](images/gauche.png)
 ![alt text](images/droite.png)
